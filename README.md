@@ -1,3 +1,3 @@
-# college-histogram
+# College Histogram
 
-Creates histograms on the data in the college.txt file.
+Visualizing the data in the college.txt file.
