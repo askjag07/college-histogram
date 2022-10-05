@@ -1,3 +1,3 @@
-# College Histogram
+# Data Description
 
-Visualizing the data in the college.txt file.
+Analyzing and manipulating the data in the three csv files using Python tools like Pandas and Seaborn and custom algorithms.
